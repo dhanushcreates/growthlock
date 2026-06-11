@@ -1,0 +1,6 @@
+{
+  "name": "Growth Lock",
+  "description": "Premium developer, video editor, and designer portfolio and digital assets marketplace built with React, Vite, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
